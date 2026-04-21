@@ -1,5 +1,6 @@
 {
-  "name": "Copy of Copy of Copy of Futsal Tapajós",
+  "name": "PLACAR POLO TAPAJÓS DE FUTSAL",
   "description": "Um placar eletrônico profissional e completo para partidas de futsal, com controle de gols, faltas, tempos técnicos e personalização total das equipes.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
